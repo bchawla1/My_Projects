@@ -1,0 +1,16 @@
+Product Category,"Days on Hand (DOH, days)",DOH Logic,"Sell Through Rate (STR, %)",STR Logic,Sales Velocity (units/week),Sales Velocity Logic,"On-Shelf Availability (OSA, %)",OSA Logic
+Apparel,15-45,Fast fashion turnover,60 - 80,"High demand, seasonal",30 - 50,Moderate demand,85 - 95,High availability needed
+Furniture,100-150,Longer sales cycle,50 - 70,Promotion driven,20 - 40,Slow sales due to high price,80 - 90,"Moderate, customizable"
+Beauty Products,10-20,"Fast-moving, low shelf life",70 - 85,High promotional turnover,40 - 60,Frequent repeat purchases,90 - 98,Critical high availability
+Grocery,02-14,"Short shelf life, frequent restock",65 - 75,Consistent high demand,10-15,Daily essential items,95 - 99,High to prevent lost sales
+Electronics,30-120,Manage obsolescence,55 - 75,Moderate demand,25 - 45,Moderate due to new tech,85 - 95,Balance stock and tech changes
+Home Decor,100-150,Seasonal trends,50 - 65,Seasonal influence,2-5,Steady but not rapid,80 - 88,"Moderate, not always needed"
+Footwear,15-45,Moderate turnover,65 - 80,High demand for trends,30 - 55,Moderate due to style,85 - 92,High for consistency
+Toys,15-45,Slow to moderate movement,55 - 70,Moderate demand,20 - 40,Lower due to seasonality,75 - 85,Moderate for demand
+Sports Equipment,100-150,Seasonal spikes,60 - 75,Promotion driven,30 - 50,Promotion driven,88 - 95,High availability expected
+Health & Wellness,15-45,Promotional cycles,70 - 90,High health focus,45 - 65,Health-focused purchases,90 - 98,Critical to maintain health stock
+Automotive,30-60,Infrequent purchases,50 - 65,Moderate sales,20 - 35,Lower due to cost,80 - 88,Moderate due to lower urgency
+Office Supplies,15-45,Moderate restock rate,60 - 80,Consistent demand,5-10,Moderate for essentials,85 - 93,Moderate restock
+Pet Supplies,20 - 30,Frequent purchases,55 - 70,Steady turnover,2-5,Steady demand,85 - 92,High to avoid stockouts
+Jewelry,100-150,"High value, slow move",45 - 60,Luxury market focus,15 - 25,Luxury slow mover,80 - 85,"High value, low restock"
+Garden Supplies,30-60,"Seasonal, moderate restock",50 - 65,Seasonal turnover,20 - 35,Seasonal spikes,85 - 90,Moderate stock management
